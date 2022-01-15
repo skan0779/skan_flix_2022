@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/skan_flix_2022/static/js/main.d2cd86f0.js",
+    "main.js": "/skan_flix_2022/static/js/main.d0e2ff7f.js",
     "index.html": "/skan_flix_2022/index.html",
-    "main.d2cd86f0.js.map": "/skan_flix_2022/static/js/main.d2cd86f0.js.map"
+    "main.d0e2ff7f.js.map": "/skan_flix_2022/static/js/main.d0e2ff7f.js.map"
   },
   "entrypoints": [
-    "static/js/main.d2cd86f0.js"
+    "static/js/main.d0e2ff7f.js"
   ]
 }
