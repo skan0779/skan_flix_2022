@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/skan_flix_2022/static/js/main.6b3f6322.js",
+    "main.css": "/skan_flix_2022/static/css/main.300f71f7.css",
+    "main.js": "/skan_flix_2022/static/js/main.ed44ee85.js",
     "index.html": "/skan_flix_2022/index.html",
-    "main.6b3f6322.js.map": "/skan_flix_2022/static/js/main.6b3f6322.js.map"
+    "main.300f71f7.css.map": "/skan_flix_2022/static/css/main.300f71f7.css.map",
+    "main.ed44ee85.js.map": "/skan_flix_2022/static/js/main.ed44ee85.js.map"
   },
   "entrypoints": [
-    "static/js/main.6b3f6322.js"
+    "static/css/main.300f71f7.css",
+    "static/js/main.ed44ee85.js"
   ]
 }
