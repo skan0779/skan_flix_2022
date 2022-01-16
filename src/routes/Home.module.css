@@ -1,0 +1,14 @@
+.main{
+    height:100%;
+    display:flex;
+}
+.main__box{
+    margin-left:20px;
+}
+.title{
+    font-size:23px;
+    padding-left:50px;
+}
+.movie{
+    display:flex;
+}

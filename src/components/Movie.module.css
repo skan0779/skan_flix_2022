@@ -1,0 +1,22 @@
+.box{
+    margin-right:30px;
+    background-color: rgba(255, 250, 250, 0.178);
+    box-shadow: 5px 10px 10px 0px rgba(226, 225, 225, 0.5);
+    width:500px;
+    border-radius: 2%;
+}
+.box img{
+    padding:7px 0px 0px 7px;
+    box-shadow: 5px 5px 5px 0px rgba(226, 225, 225, 0.233);
+    border-radius: 5%;
+}
+.box h2{
+    padding-left: 20px;
+    font-size: 28px;
+}
+.box p{
+    padding:0px 0px 20px 10px;
+}
+.box ul{
+    color:bisque;
+}
